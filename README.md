@@ -1,4 +1,4 @@
-# 🏥 Automated Multi-Stage Liver Disease Diagnosis using AutoML and XAI
+# 🏥 Automated Multi-Stage Liver Disease Diagnosis: A Comparative Study of ML & AutoML
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyCaret](https://img.shields.io/badge/PyCaret-AutoML-yellow)
